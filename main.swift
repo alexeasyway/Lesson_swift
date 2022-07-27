@@ -1,3 +1,12 @@
+//
+//  main.swift
+//  Swift_lesson
+//
+//  Created by makbook on 27.07.2022.
+//
+
+import Foundation
+
 //Обьявление переменных
 var str = "Hello, playhround"
 var age = 21, age2 = 40
@@ -39,3 +48,5 @@ if (variableOne > variableOneCopy){
     print("false")
   }
   
+
+
