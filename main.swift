@@ -22,7 +22,7 @@ orksName = "Гомри"
 elfsName = "Лиасель"
 
 //неявно определим параметр целочисленного типа данных
-var variableOne = 23
+var variableOne = 24
 //после чего передадим ему значение другого параметра в качестве первоначального
 let variableOneCopy: Int = variableOne
 print(variableOneCopy)
@@ -31,3 +31,11 @@ variableOne = 25
 print(variableOneCopy)
 print(variableOne)
 
+if (variableOne > variableOneCopy){
+  print("true")
+}
+  else
+  {
+    print("false")
+  }
+  
